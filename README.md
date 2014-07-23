@@ -15,3 +15,10 @@ Installation
 ==========================================
 1. Upload `Slider-Gallery` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the \'Plugins\' menu in WordPress
+
+Requirements
+------------------------------------------
+Included: Font Awesome http://fortawesome.github.io/Font-Awesome/
+Included in Wordpress: jQuery
+
+
